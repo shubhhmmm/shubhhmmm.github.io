@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "first post"
-date:   2023-07-22 16:33:42 +0530
+date:   2023-07-24 16:33:42 +0530
 ---
 This is my first post.
 
