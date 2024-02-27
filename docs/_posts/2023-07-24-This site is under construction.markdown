@@ -1,8 +1,12 @@
 ---
 layout: post
-title:  "This site is under construction :p"
+title:  "Hello world!"
 date:   2023-07-24 16:33:42 +0530
 ---
-This site is under construction :p
+At this point, it has become like a ritual to write "hello world!" Whenever I start something new.
+
+I always had this wish of setting up my website; this is just an attempt at it using Jekyll, I'm having fun tinkering with it as per my needs. 
+
+Here I'll be posting my random thoughts, design related stuff......... and anything i feel like documenting.
 
 [Home]: https://shubhhmmm.github.io/
