@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Hello world!"
-date:   2023-07-24 16:33:42 +0530
+date:   2024-02-27 16:33:42 +0530
 ---
-At this point, it has become like a ritual to write "hello world!" Whenever I start something new.
+At this point, it has become like a ritual to write "Hello world!" Whenever I start something new.
 
 I always had this wish of setting up my website; this is just an attempt at it using Jekyll, I'm having fun tinkering with it as per my needs. 
 
