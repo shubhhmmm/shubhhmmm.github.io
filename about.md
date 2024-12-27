@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I’m a Graphic Design student, welcome to my portfolio :)
+I’m a Graphic Design student, welcome to my blog cum portfolio :)
