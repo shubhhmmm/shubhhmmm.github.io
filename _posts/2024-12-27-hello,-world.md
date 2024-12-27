@@ -2,6 +2,7 @@
 layout: post
 title: "hello, world"
 categories:
+author: dikeshwar
 ---
 
 At this point, it has become like a ritual to write "hello, world" Whenever I start something new.
