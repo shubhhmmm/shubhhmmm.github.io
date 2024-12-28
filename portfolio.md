@@ -4,9 +4,9 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-[Behance link](https://www.behance.net/shubh_hmmm)
+#### Behance link - [Click here](https://www.behance.net/shubh_hmmm)
 <br>
-<br>
+
 ##### Projects that are yet to be published on my Behance.
 ###### Click on respective projects to access them.
 - [GHATS Magazine](https://drive.google.com/file/d/1_2dHg3S5prMU86wnbMN30RDgzWFZ-cNg/view?usp=drive_link)
