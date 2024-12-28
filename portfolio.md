@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-[Behance](https://www.behance.net/shubh_hmmm)
+[Behance link](https://www.behance.net/shubh_hmmm)
 <br>
 <br>
 ##### Projects that are yet to be published on my Behance.
