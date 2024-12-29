@@ -3,7 +3,7 @@
   <a {% unless entry.platform == 'rss' %}rel="me" {% endunless %}href="{{ entry.user_url }}" target="_blank" title="{{ entry.title | default: entry.platform }}">
     <svg class="svg-icon grey">
       {% if entry.platform == 'behance' %}
-        <use xlink:href="{{ '_includes/social-icons/behance.svg#' | append: entry.platform | relative_url }}"></use>
+        <use xlink:href="{{ '/_includes/social-icons/behance.svg#' | append: entry.platform | relative_url }}"></use>
       {% else %}
         <use xlink:href="{{ '/assets/minima-social-icons.svg#' | append: entry.platform | relative_url }}"></use>
       {% endif %}
